@@ -1,0 +1,4 @@
+name: Elevator
+version: @version@
+main: com.github.khy010802.elevator.Elevator
+api-version: 1.16
